@@ -1,0 +1,47 @@
+name: Daily craft tip
+
+on:
+  schedule:
+    # ≈ 09:00 and 21:00 Malaysia (UTC+8)
+    - cron: '0 1 * * *'
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+    inputs:
+      note:
+        description: Optional real one-liner (overrides tip bank for today)
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-ship-log
+  cancel-in-progress: false
+
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Append today's entry
+        id: entry
+        env:
+          NOTE: ${{ inputs.note }}
+        run: node scripts/append-entry.mjs
+
+      - name: Commit if new
+        if: steps.entry.outputs.wrote == 'true'
+        env:
+          COMMIT_MSG: ${{ steps.entry.outputs.commit_message }}
+        run: |
+          git config user.name "KhyFee"
+          git config user.email "khaixd756@gmail.com"
+          git add LOG.md README.md
+          git commit -m "$COMMIT_MSG"
+          git push
