@@ -23,6 +23,10 @@ Manual run: **Actions → Daily craft tip → Run workflow**. Optional `note` in
 
 > I keep a lightweight public learning log on a schedule so the habit sticks.
 
+## Profile
+
+Maintainer: [@KhyFee](https://github.com/KhyFee) · chat: [welcome discussion](https://github.com/KhyFee/daily-ship-log/discussions/1)
+
 ## License
 
 MIT
