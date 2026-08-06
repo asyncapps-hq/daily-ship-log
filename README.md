@@ -4,6 +4,8 @@ Automated **daily craft tip** for consistency — Playwright, a11y, smoke tests,
 
 This is a lightweight public learning log on a schedule. It is **not** empty commits, and it is **not** a substitute for product or open-source work.
 
+**Real cadence (earn the graph):** follow **[WEEKLY_SHIP.md](./WEEKLY_SHIP.md)** — one product change + target one external mergeable PR per week.
+
 ## Stats
 
 <!-- stats:start -->
