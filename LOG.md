@@ -21,4 +21,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-08
 
 - **a11y:** Use focus-visible rings — outline:none without a replacement breaks keyboard users.
+## 2026-08-09
+
+- **a11y:** Heading levels should increase by one; skip h2→h4 and axe will flag it.
 
