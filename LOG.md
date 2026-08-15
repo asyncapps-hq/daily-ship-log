@@ -39,4 +39,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-14
 
 - **delivery:** Shortest path that works first; abstractions wait for a second real caller.
+## 2026-08-15
+
+- **delivery:** Fix root cause in the shared function, not a guard in every caller.
 
