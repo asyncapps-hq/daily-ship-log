@@ -42,4 +42,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-15
 
 - **delivery:** Fix root cause in the shared function, not a guard in every caller.
+## 2026-08-16
+
+- **delivery:** Leave one runnable check behind non-trivial logic — future you will thank you.
 
