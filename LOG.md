@@ -51,4 +51,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-18
 
 - **delivery:** plan → build with AI → verify → smoke → ship.
+## 2026-08-19
+
+- **ai:** AI drafts faster when the acceptance check is already written.
 
