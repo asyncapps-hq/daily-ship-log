@@ -54,4 +54,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-19
 
 - **ai:** AI drafts faster when the acceptance check is already written.
+## 2026-08-20
+
+- **ai:** Ask the model for the smallest diff that passes the failing test.
 
