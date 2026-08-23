@@ -63,4 +63,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-22
 
 - **ai:** Keep prompts tied to repo patterns; re-implementing helpers wastes tokens and time.
+## 2026-08-23
+
+- **debug:** Reproduce → isolate shared path → fix once → re-run smoke + e2e.
 
