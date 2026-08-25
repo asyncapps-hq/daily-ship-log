@@ -69,4 +69,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-24
 
 - **debug:** Flakes that vanish with retries still need a root cause before you ship.
+## 2026-08-25
+
+- **debug:** Log the invariant you care about, not every intermediate variable.
 
