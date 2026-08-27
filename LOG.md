@@ -75,4 +75,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-08-26
 
 - **ci:** Schedules only read the default branch — merge the workflow before you wait on cron.
+## 2026-08-27
+
+- **ci:** Idempotent jobs: second run same day should no-op, not double-commit.
 
