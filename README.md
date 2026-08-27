@@ -9,8 +9,8 @@ This is a lightweight public learning log on a schedule. It is **not** empty com
 ## Stats
 
 <!-- stats:start -->
-- **Last entry:** 2026-08-27 (ci)
-- **Days logged:** 25
+- **Last entry:** 2026-08-28 (playwright)
+- **Days logged:** 26
 <!-- stats:end -->
 
 ## How it works
