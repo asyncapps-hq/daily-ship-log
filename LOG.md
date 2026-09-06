@@ -105,4 +105,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-05
 
 - **smoke:** Smoke should fail loud and finish fast — under a few minutes or it will be skipped.
+## 2026-09-06
+
+- **a11y:** Icon-only buttons need an accessible name (aria-label) or they announce as “button”.
 
