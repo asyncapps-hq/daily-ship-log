@@ -117,4 +117,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-09
 
 - **a11y:** WCAG AA needs ~4.5:1 for normal text — white on soft pink often fails.
+## 2026-09-10
+
+- **a11y:** aria-expanded on menu toggles tells AT whether the drawer is open.
 
