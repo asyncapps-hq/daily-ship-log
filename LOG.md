@@ -120,4 +120,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-10
 
 - **a11y:** aria-expanded on menu toggles tells AT whether the drawer is open.
+## 2026-09-11
+
+- **a11y:** Every document needs a non-empty title — Next metadata.title is the easy fix.
 
