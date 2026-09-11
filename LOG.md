@@ -123,4 +123,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-11
 
 - **a11y:** Every document needs a non-empty title — Next metadata.title is the easy fix.
+## 2026-09-12
+
+- **a11y:** Skip-to-content links are WCAG 2.4.1 — first focusable, visible on focus.
 
