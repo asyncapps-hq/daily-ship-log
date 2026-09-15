@@ -135,4 +135,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-15
 
 - **delivery:** Leave one runnable check behind non-trivial logic — future you will thank you.
+## 2026-09-16
+
+- **delivery:** Cut speculative features — YAGNI is a delivery speed multiplier.
 
