@@ -150,4 +150,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-20
 
 - **ai:** Review AI output like a junior PR — trust boundaries and a11y still need humans.
+## 2026-09-21
+
+- **ai:** Keep prompts tied to repo patterns; re-implementing helpers wastes tokens and time.
 
