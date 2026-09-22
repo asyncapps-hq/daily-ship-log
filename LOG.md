@@ -156,4 +156,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-22
 
 - **debug:** Reproduce → isolate shared path → fix once → re-run smoke + e2e.
+## 2026-09-23
+
+- **debug:** Flakes that vanish with retries still need a root cause before you ship.
 
