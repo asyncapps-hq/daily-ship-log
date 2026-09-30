@@ -180,4 +180,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-09-30
 
 - **playwright:** trace: on-first-retry beats always-on traces for signal vs artifact bloat.
+## 2026-10-01
+
+- **playwright:** Keep e2e workers low when tests share one server or database — races fake flakes.
 
