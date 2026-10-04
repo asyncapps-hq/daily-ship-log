@@ -192,4 +192,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-10-04
 
 - **smoke:** Smoke after every meaningful deploy: one happy path beats zero confidence.
+## 2026-10-05
+
+- **smoke:** Smoke should fail loud and finish fast — under a few minutes or it will be skipped.
 
