@@ -228,4 +228,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-10-16
 
 - **delivery:** Cut speculative features — YAGNI is a delivery speed multiplier.
+## 2026-10-17
+
+- **delivery:** plan → build with AI → verify → smoke → ship.
 
