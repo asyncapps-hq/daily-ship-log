@@ -261,4 +261,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-10-27
 
 - **playwright:** Prefer getByRole / getByLabel over CSS selectors so tests track user-visible UI.
+## 2026-10-28
+
+- **playwright:** Assert state before screenshots — a blank failure page can still produce a green PNG.
 
