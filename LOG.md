@@ -273,4 +273,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-10-31
 
 - **playwright:** Keep e2e workers low when tests share one server or database — races fake flakes.
+## 2026-11-01
+
+- **playwright:** Sandbox HOME / state dirs in e2e so a suite never wipes a developer machine.
 
