@@ -279,4 +279,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-11-02
 
 - **playwright:** Upload HTML report + traces only on failure — cheap when green, useful when red.
+## 2026-11-03
+
+- **smoke:** Smoke after every meaningful deploy: one happy path beats zero confidence.
 
