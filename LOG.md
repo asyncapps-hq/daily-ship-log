@@ -288,4 +288,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-11-05
 
 - **a11y:** Icon-only buttons need an accessible name (aria-label) or they announce as “button”.
+## 2026-11-06
+
+- **a11y:** Use focus-visible rings — outline:none without a replacement breaks keyboard users.
 
