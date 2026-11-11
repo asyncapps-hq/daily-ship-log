@@ -306,4 +306,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-11-11
 
 - **a11y:** Skip-to-content links are WCAG 2.4.1 — first focusable, visible on focus.
+## 2026-11-12
+
+- **delivery:** Shortest path that works first; abstractions wait for a second real caller.
 
