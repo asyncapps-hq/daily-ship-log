@@ -327,4 +327,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-11-18
 
 - **ai:** Ask the model for the smallest diff that passes the failing test.
+## 2026-11-19
+
+- **ai:** Review AI output like a junior PR — trust boundaries and a11y still need humans.
 
