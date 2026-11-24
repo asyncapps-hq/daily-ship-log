@@ -342,4 +342,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-11-23
 
 - **debug:** Log the invariant you care about, not every intermediate variable.
+## 2026-11-24
+
+- **ci:** Schedules only read the default branch — merge the workflow before you wait on cron.
 
