@@ -348,4 +348,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-11-25
 
 - **ci:** Idempotent jobs: second run same day should no-op, not double-commit.
+## 2026-11-26
+
+- **playwright:** Prefer getByRole / getByLabel over CSS selectors so tests track user-visible UI.
 
