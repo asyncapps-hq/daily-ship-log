@@ -354,4 +354,7 @@ Append-only craft tips (Asia/Kuala_Lumpur calendar days). One entry per day.
 ## 2026-11-27
 
 - **playwright:** Assert state before screenshots — a blank failure page can still produce a green PNG.
+## 2026-11-28
+
+- **playwright:** Use webServer + baseURL in config so CI and local share one entry point.
 
